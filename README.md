@@ -1,2 +1,2 @@
 # ScottishSummit
-Your homework from the Scottish Summit1 
+Your homework from the Scottish Summit!
